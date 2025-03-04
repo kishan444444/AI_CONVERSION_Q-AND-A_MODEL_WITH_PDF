@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+chromadb
+python-dotenv
+fitz
+streamlit
+frontend
+faiss-cpu
+pypdf 
+pymupdf
